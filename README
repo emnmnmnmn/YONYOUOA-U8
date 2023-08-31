@@ -1,0 +1,12 @@
+## 用友U8-OA POC
+## fofa: title = "用友U8-OA"
+
+```
+python3 YONYOUOA_U8_SQL.py -h
+
+python3 YONYOUOA_U8_SQL.py -u http://xxx.xx.xx
+
+python3 YONYOUOA_U8_SQL.py -f xxx.txt
+
+```
+## 结果存储在result.txt
